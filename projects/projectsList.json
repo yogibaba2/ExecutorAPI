@@ -1,0 +1,19 @@
+[{
+    "id": 0,
+    "name": "finalSuitePackageMRR",
+    "lastText": "Medical Record Reviewer",
+    "logo":"img/ben.png"
+    
+  }, {
+    "id": 1,
+    "name":"mrrSmokeTest",
+    "lastText": "NFL Scheduling",
+    "logo": "img/nfl.png"
+   
+  },{
+    "id": 2,
+    "name":"Scheduling",
+    "lastText": "NFL Scheduling",
+    "logo": "img/nfl.png"
+   
+  }]
